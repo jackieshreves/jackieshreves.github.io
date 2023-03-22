@@ -1,3 +1,1 @@
-# My Portfolio
-## Eye Movement Repo
-<a href="https://jackieshreves.github.io/Eye-Exercise/"> Eyes Exercise </a>
+This is my work in progress repo. This will hold coursework and any personal projects I have going on.
